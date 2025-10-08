@@ -1,0 +1,24 @@
+# Site settings
+title: Josema Guzman | Front-end Developer
+description: Freelance Front-end Developer and UX Designer
+author: Jose Manuel Guzman
+baseurl: ""
+url: "https://josemanuelguzman.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Google Fonts
+google_fonts:
+  - "JetBrains+Mono:wght@300"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
